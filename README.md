@@ -31,8 +31,8 @@ Bu proje, bilgisayar kamerasından alınan görüntüde arka planı bulanıklaş
 
 Aşağıda uygulamanın çalışırken alınmış bir ekran görüntüsü örneği bulunmaktadır:
 
-![alt text](Ekran2.PNG)
-![alt text](Ekran1.PNG)
+<img width="649" height="512" alt="Ekran1" src="https://github.com/user-attachments/assets/088761e0-6f99-42d5-bea8-3f508ebbaf96" />
+<img width="642" height="512" alt="Ekran2" src="https://github.com/user-attachments/assets/8ce19ddf-328e-45a8-9796-02a0e6184aaa" />
 
 ## Çıkış
 
